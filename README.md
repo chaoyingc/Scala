@@ -20,8 +20,8 @@ $ console
 ```
 $ scala
 ```
-* les étaps pour créer un scala worksheet dans intellij:
-`* configure - plugins - scala`
-`*configure - structure for new projects - project - choisir un SDK (ex:java8)`
-`* une fois que le projet est configuré, vous pouvez créer un scala worksheet dans le repo 'main' en cliquant doite - new - scala worksheet`
+* les étaps pour créer un scala worksheet dans intellij:  
+`* configure - plugins - scala`  
+`*configure - structure for new projects - project - choisir un SDK (ex:java8)`  
+`* une fois que le projet est configuré, vous pouvez créer un scala worksheet dans le repo 'main' en cliquant doite - new - scala worksheet`  
 Et maintenant, c'est l'heure pour les exos à la fin du fichier scala_introduction.pdf
